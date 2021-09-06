@@ -1,3 +1,3 @@
 # competitiveProgramming
-all my cpp code to the codeforces problems.
+all my cpp code to some codeforces problems.
 
